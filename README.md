@@ -9,6 +9,10 @@ You can run the following examples:
 - [**News Guide**](examples/news-guide) – Foxhollow Dispatch newsroom assistant with article search, @-mentions, and page-aware responses.
 - [**Metro Map**](examples/metro-map) – chat-driven metro planner with a React Flow network of lines and stations.
 
+## Use your own Workflow Builder agent
+
+If you built an agent with the Workflow Builder and want to embed it on another site, follow the step-by-step deployment playbook in [WORKFLOW_AGENT_DEPLOYMENT.md](./WORKFLOW_AGENT_DEPLOYMENT.md).
+
 ## Quickstart
 
 1. Export `OPENAI_API_KEY`.
